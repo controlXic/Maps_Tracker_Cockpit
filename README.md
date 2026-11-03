@@ -68,8 +68,6 @@ The connector provides the following signals:
 
 The software is developed using **Qt** and **QGIS libraries**, providing the mapping and navigation functionality.
 
-The main objective is to display offline vector maps while supporting GPS track recording and navigation.
-
 ## Images
 
 App Tabs and GPX SERVER web   
