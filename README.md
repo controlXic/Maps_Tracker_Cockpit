@@ -75,7 +75,7 @@ The main objective is to display offline vector maps while supporting GPS track 
 App Tabs    
 <img src="docs/tabs.png" alt="System Architecture" width="800">  
 
-Dev    
+Device    
 <img src="docs/dev-bike.png" alt="System Architecture" width="300">  
 
 
