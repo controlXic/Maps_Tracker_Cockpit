@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>File Server</title>
+</head>
+<body>
+
+<h1>Control Xic MAPS</h2>
+
+<h2>Pujar fitxer</h2>
+
+<form action="/GPX" method="post" enctype="multipart/form-data">
+<input type="file" name="file">
+<button type="submit">Pujar</button>
+</form>
+
+<h2>Arxius disponibles</h2>
+
+<ul id="filelist"></ul>
+
+<script>
+fetch("GPX/")
+.then(r => r.text())
+.then(html => {
+    const parser = new DOMParser()
+    const doc = parser.parseFromString(html, "text/html")
+    const links = doc.querySelectorAll("a")
+
+    const list = document.getElementById("filelist")
+
+    links.forEach(link=>{
+        const name = link.getAttribute("href")
+        if(name && !name.startsWith("?")){
+            const li = document.createElement("li")
+            li.innerHTML = `<a href="GPX/${name}" download>${name}</a>`
+            list.appendChild(li)
+        }
+    })
+})
+</script>
+
+</body>
+</html>
