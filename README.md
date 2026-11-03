@@ -72,7 +72,7 @@ The main objective is to display offline vector maps while supporting GPS track 
 
 ## Images
 
-App Tabs    
+App Tabs and GPX SERVER web   
 <img src="docs/tabs.png" alt="System Architecture" width="800">  
 
 Device    
