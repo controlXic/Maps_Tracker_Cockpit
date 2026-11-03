@@ -1,7 +1,3 @@
-Aquí el tens en format Markdown (`README.md`), preparat per copiar directament a GitHub:
-
-Redacción
-
 # Development Notes and System Configuration
 
 ## 1\. Convert OSM PBF to MBTiles
