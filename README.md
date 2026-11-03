@@ -76,7 +76,7 @@ App Tabs
 <img src="docs/tabs.png" alt="System Architecture" width="800">  
 
 Dev    
-<img src="docs/dev-bike.png" alt="System Architecture" width="500">  
+<img src="docs/dev-bike.png" alt="System Architecture" width="300">  
 
 
 ## Additional Notes
