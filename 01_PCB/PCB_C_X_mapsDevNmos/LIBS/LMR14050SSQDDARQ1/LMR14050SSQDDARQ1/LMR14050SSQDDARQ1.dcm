@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LMR14050SSQDDARQ1
+D Automotive 40V, 5A SIMPLE SWITCHER, 2.2MHz Step-Down Regulator with 40uA IQ
+K
+F http://www.ti.com/lit/gpn/lmr14050-q1
+$ENDCMP
+#
+#End Doc Library

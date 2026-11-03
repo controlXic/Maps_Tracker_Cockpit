@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CPH6350-TL-W
+D 4.0V gate drive; Low ON resistance; Protection diode in
+K
+F https://www.onsemi.com/pub/Collateral/CPH6350-D.PDF
+$ENDCMP
+#
+#End Doc Library

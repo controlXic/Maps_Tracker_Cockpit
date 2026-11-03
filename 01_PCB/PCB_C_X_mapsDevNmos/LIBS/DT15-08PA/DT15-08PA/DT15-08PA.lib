@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model DT15-08PA
+#/1907228/191004/2.50/10/4/Connector
+DEF DT15-08PA J 0 30 Y Y 1 F N
+F0 "J" 650 600 50 H V L CNN
+F1 "DT15-08PA" 650 500 50 H V L CNN
+F2 "DT1508PA" 650 400 50 H I L CNN
+F3 "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=DT15-08PX&DocType=Customer+Drawing&DocLang=English&DocFormat=pdf&PartCntxt=DT15-08PA" 650 300 50 H I L CNN
+F4 "Automotive Connectors DT RECP ASM" 650 200 50 H I L CNN "Description"
+F5 "30.1" 650 100 50 H I L CNN "Height"
+F6 "TE Connectivity" 650 0 50 H I L CNN "Manufacturer_Name"
+F7 "DT15-08PA" 650 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -200 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -400 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -500 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 800 0 200 L 50 50 0 0 P
+X 2 2 800 -100 200 L 50 50 0 0 P
+X 3 3 800 -200 200 L 50 50 0 0 P
+X 4 4 800 -300 200 L 50 50 0 0 P
+X 5 5 0 -300 200 R 50 50 0 0 P
+X 6 6 0 -200 200 R 50 50 0 0 P
+X 7 7 0 -100 200 R 50 50 0 0 P
+X 8 8 0 0 200 R 50 50 0 0 P
+X MH1 MH1 400 -900 200 U 50 50 0 0 P
+X MH2 MH2 400 600 200 D 50 50 0 0 P
+P 5 0 1 6 200 400 600 400 600 -700 200 -700 200 400 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SMTSO-M25-2ET
+#/14922143/191004/2.50/1/3/Hardware
+DEF SMTSO-M25-2ET H 0 30 Y Y 1 F N
+F0 "H" 650 300 50 H V L CNN
+F1 "SMTSO-M25-2ET" 650 200 50 H V L CNN
+F2 "SMTSOM252ET" 650 100 50 H I L CNN
+F3 "https://www.mouser.es/datasheet/2/974/kdata-1901229.pdf" 650 0 50 H I L CNN
+F4 "Standoffs & Spacers SURFACE MOUNT STANDOFF, M2.5" 650 -100 50 H I L CNN "Description"
+F5 "2.13" 650 -200 50 H I L CNN "Height"
+F6 "PennEngineering" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SMTSO-M25-2ET" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "153-SMTSO-M25-2ET" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/PEM/SMTSO-M25-2ET?qs=l4Gc20tDgJLbmEbdf%2F%252BqMQ%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
