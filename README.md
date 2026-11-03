@@ -41,11 +41,11 @@ The power management logic works as follows:
 
 ## Hardware
 
-The device is built around an **Orange Pi Zero 2 (4 GB RAM, Wi-Fi)**, a compact board offering a good balance between performance and size.
+The device is built around an **Orange Pi Zero 2 W(4 GB RAM)**, a compact board offering a good balance between performance and size.
 
 Main hardware components:
 
-- **Main board:** Orange Pi Zero 2 (4 GB RAM, Wi-Fi).
+- **Main board:** Orange Pi Zero 2 W(4 GB RAM).
 - **Display:** Waveshare 5-inch, 1280 × 720 touchscreen.
 - **GPS:** Integrated GPS NEO-8M module with an external antenna.
 - **Custom PCB:** Designed specifically to integrate and connect all the hardware components.
@@ -59,7 +59,7 @@ The connector provides the following signals:
 | Signal | Description |
 | --- | --- |
 | KL30 | Set when Motor i on |
-| Ignition switch | Ignition / key switch signal |
+| Key | key switch signal |
 | VBAT + GND | Battery power and ground |
 | GPS antenna + GND | External GPS antenna connection |
 | 5V + GND | Power supply for the handlebar-mounted Bluetooth controller (comming soon)|
