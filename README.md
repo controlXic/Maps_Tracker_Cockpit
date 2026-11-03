@@ -14,7 +14,7 @@ Eventually, we decided to move to a microprocessor-based platform — or, to put
 
 One might ask: why not simply use an Android application, considering that excellent alternatives such as DMD2 already exist?
 
-Well, because this device is fully integrated into the motorcycle — and, most importantly, it's _mine_\!
+Well, because this device is fully integrated into the motorcycle — And, most importantly, it’s my pastime!\!
 
 ## App Features
 
