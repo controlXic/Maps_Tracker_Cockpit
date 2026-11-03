@@ -42,7 +42,7 @@ file_server::file_server(QObject *parent)
 
 void file_server::open_wifi()
 {
-    createWifiAP->start("bash", QStringList() << "-c" << "sudo create_ap -m nat wlan0 end0 cXic-Husqvarna putaespanya --no-virt");
+    createWifiAP->start("bash", QStringList() << "-c" << "sudo create_ap -m nat wlan0 end0 cXic-Husqvarna montenegro --no-virt");
 
 //    qDebug() << "wifi start";
 //    qDebug() << createWifiAP->processId();
