@@ -4,6 +4,15 @@
 
 The goal of this research project was to develop a motorcycle-mounted navigation device capable of displaying offline vector maps, recording GPS tracks, and providing navigation capabilities.
 
+## Images
+
+Device    
+<img src="docs/dev-bike.png" alt="System Architecture" width="300">   
+
+
+App Tabs and GPX SERVER web   
+<img src="docs/tabs.png" alt="System Architecture" width="800">  
+
 ## Project Background
 
 The first prototype was based on an STM32H743 microcontroller paired with a 5-inch display. It used raster map tiles (`tiles.png`), but map rendering and processing performance proved to be too slow.
@@ -67,15 +76,6 @@ The connector provides the following signals:
 ## Software
 
 The software is developed using **Qt** and **QGIS libraries**, providing the mapping and navigation functionality.
-
-## Images
-
-App Tabs and GPX SERVER web   
-<img src="docs/tabs.png" alt="System Architecture" width="800">  
-
-Device    
-<img src="docs/dev-bike.png" alt="System Architecture" width="300">  
-
 
 ## Additional Notes
 
