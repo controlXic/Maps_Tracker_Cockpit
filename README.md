@@ -8,11 +8,11 @@ The goal of this research project was to develop a motorcycle-mounted navigation
 
 Device    
 <img src="docs/dev-bike.png" alt="System Architecture" width="400">   
-
-
+  
+  
 App Tabs and GPX SERVER web   
 <img src="docs/tabs.png" alt="System Architecture" width="800">  
-
+  
 ## Project Background
 
 The first prototype was based on an STM32H743 microcontroller paired with a 5-inch display. It used raster map tiles (`tiles.png`), but map rendering and processing performance proved to be too slow.
