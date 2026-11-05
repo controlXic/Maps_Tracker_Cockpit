@@ -7,7 +7,7 @@ The goal of this research project was to develop a motorcycle-mounted navigation
 ## Images
 
 Device    
-<img src="docs/dev-bike.png" alt="System Architecture" width="300">   
+<img src="docs/dev-bike.png" alt="System Architecture" width="400">   
 
 
 App Tabs and GPX SERVER web   
